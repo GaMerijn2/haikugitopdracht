@@ -9,9 +9,9 @@ def Haiku1():
 
 def Haiku2():
     print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("ik ben moe ")
+    print("zing een slaapliedje")
+    print("anders zorg ik dat jij permanent in slaap valt")
 
 def Haiku3():
     print("haiku by:","AUTHOR")
