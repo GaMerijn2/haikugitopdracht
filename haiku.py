@@ -8,16 +8,16 @@ def Haiku1():
     print("anders haal je eten.")
 
 def Haiku2():
-    print("haiku by:","AUTHOR")
-    print("ik ben moe ")
-    print("zing een slaapliedje")
-    print("anders zorg ik dat jij permanent in slaap valt")
+    print("haiku by:","Jan")
+    print("ik ben moe.")
+    print("zing een slaapliedje.")
+    print("anders zorg ik dat jij permanent in slaap valt.") # die is mooi xd
 
 def Haiku3():
-    print("haiku by:","AUTHOR")
-    print("REGEL1")
-    print("REGEL2")
-    print("REGEL3")
+    print("haiku by:","bram")
+    print("Merijn stop met gamen")
+    print("Want het is heel slecht voor je.")
+    print("Daarvan kan je namelijk oogpijn krijgen.")
 
 #laat de code hieronder met rust
 Haiku1()
